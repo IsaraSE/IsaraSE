@@ -24,16 +24,13 @@ const isara = {
 
 <h3 align="center">🔗 Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/isaraSE" target="_blank">
+  <a href="https://www.linkedin.com/in/isara-ekanayake-78b562318" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:isaraekanayake123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/isaraSE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/isaraSE" target="_blank">
+  <a href="https://github.com/IsaraSE" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -140,54 +137,6 @@ const isara = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaraSE&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" alt="Top Languages" />
 </p>
-
----
-
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Food Delivery Microservices</h3>
-      <div align="center">  
-        <a href="https://github.com/isaraSE/food-delivery-microservice" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-FF6B6B?style=for-the-badge&logo=github" alt="View Project"/>
-        </a>
-        <p><strong>Java, Spring Boot, Docker, Kubernetes, MongoDB, MySQL</strong></p>
-        <p>Cloud-native microservices architecture for managing food orders and deliveries with container orchestration.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">StudyBridge</h3>
-      <div align="center">
-        <a href="https://github.com/isaraSE/StudyBridge" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github" alt="View Project"/>
-        </a>
-        <p><strong>Node.js, Express, MongoDB, React.js, Material UI</strong></p>
-        <p>Immigration & university application management system with real-time tracking and document processing.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Hospital Management System</h3>
-      <div align="center">
-        <a href="https://github.com/isaraSE/osgi-hospital-management" target="_blank">
-          <img src="https://img.shields.io/badge/View%20Project-95E1D3?style=for-the-badge&logo=github" alt="View Project"/>
-        </a>
-        <p><strong>Java, OSGi, Eclipse Equinox, Maven</strong></p>
-        <p>Modular CLI application using publisher-subscriber pattern for managing prescriptions and pharmacy operations.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">More Projects Coming Soon...</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/In%20Development-FFA07A?style=for-the-badge" alt="In Development"/>
-        <p>🚀 Currently working on exciting new projects!</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
