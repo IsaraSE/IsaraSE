@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Isara+Ekanayake+%F0%9F%91%8B;Full-Stack+Developer+%7C+Software+Engineer;Building+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />
+  <img src="./assets/banner.png" alt="Tech Stack Banner" width="100%" />
 </p>
 
 <p align="center">
